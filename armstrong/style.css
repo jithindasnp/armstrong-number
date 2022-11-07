@@ -1,0 +1,13 @@
+#h1{
+    text-shadow: 2px 2px 3px grey;
+}
+.card{
+    box-shadow: 2px 2px 3px black;
+    background: linear-gradient(#99ff66,#33cccc);
+}
+#out{
+    color: green;
+}
+#inp{
+    border-radius: 15px;
+}
